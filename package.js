@@ -3,7 +3,7 @@
 Package.describe({
   name: 'quave:logged-user-react',
   summary: 'Logged user utilities for React apps',
-  version: '2.0.0-beta300.7',
+  version: '2.0.1-beta300.7',
   git: 'https://github.com/quavedev/logged-user-react'
 });
 

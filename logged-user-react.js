@@ -1,4 +1,4 @@
-import { useTracker } from 'meteor/react-meteor-data';
+import { useTracker } from 'meteor/quave:react-meteor-data';
 import { Meteor } from 'meteor/meteor';
 
 export const useLoggedUser = () =>
