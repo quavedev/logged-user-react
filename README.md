@@ -1,5 +1,7 @@
 # quave:logged-user-react
 
+### MIGRATED TO https://github.com/quavedev/meteor-packages/tree/main/logged-user-react
+
 `quave:logged-user-react` is a Meteor package that provides a plug-and-play React hook to get the logged user.
 
 ## Why
